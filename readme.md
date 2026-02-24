@@ -41,7 +41,7 @@ Open your terminal (PowerShell or Command Prompt) and run:
 # Clone Directory
 git clone https://github.com/Sanborn-Young/PDF2DockerDocling.git
 
-#Move Into New Clone Directory
+# Move Into New Clone Directory
 cd PDF2DockerDocling
 ```
 
