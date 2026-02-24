@@ -12,7 +12,8 @@ echo   All embedded images are automatically recompressed to WebP to
 echo   keep output file sizes small.
 echo.
 echo   HOW TO RUN:
-echo   Double-click rundocling-fixed.py (or run via Python).
+echo   Start-Docling.bat can be clicked from Windows Explorer to kick off the proceses.  
+echo
 echo   The tool will start Docker, wait for Docling to be ready,
 echo   then show you the mode selection window.
 echo.
