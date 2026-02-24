@@ -1,6 +1,6 @@
 # 📄 Docling PDF & JPEG Slide Converter (Windows 11)
 
-An optimized pipeline designed specifically for **Windows 11** to convert PDFs and image-based slide decks into RAG-ready Markdown (.md) files. This tool is built to feed high-quality document data into frameworks like **AnythingLLM** or any other pipeline while maintaining a small storage footprint through automated **WebP recompression**.
+An optimized pipeline designed specifically for **Windows 11** to convert PDFs and image-based slide decks into a markdown document you can put into Obsidian or even create a bunch of RAG-ready Markdown (.md) files. This tool is built to feed high-quality document data into frameworks like **AnythingLLM** or any other pipeline while maintaining a small storage footprint through automated **WebP recompression**.
 
 If you had a PDF, JPEG or a folder of PDFs that you really wanted to put into your notebook as simple markdown, which an embedded graphics where necessary, this is what I'm using for my front end.  I hope it can possibly serve as a stepping off point for others.
 
