@@ -9,9 +9,9 @@ V 0.0.1
 The tool operates as a three-part orchestration to ensure high-fidelity conversion with zero manual setup:
 
 1.  **The PowerShell Engine (`pull-updated.ps1`)**: Automatically pulls the latest `ghcr.io/docling-project/docling-serve-cpu:latest` Docker image. It manages the container lifecycle and scans your system for a free host port between 5001 and 5095. 
-    * [View Launcher Screenshot](./resources/image1.png)
+        * ![View Launcher Screenshot](./resources/image1.png)
 2.  **The Docling Brain (Docker)**: Runs the official Docling Serve AI, which uses advanced layout analysis to understand tables, charts, and multi-column text.
-    * [View Container Screenshot](./resources/image2.png)
+    * ![View Container Screenshot](./resources/image2.png)
 3.  **The Python Command Center (`rundocling-fixed.py`)**: Provides a GUI for file selection and handles "Post-Processing" by recompressing every image into WebP format based on your local settings.
 
 ---
