@@ -10,17 +10,19 @@ V 0.0.1
 
 Once you have it up and running, you will get a dialog box as follows:
 
-        * ![View Launcher Screenshot](./resources/image1.png)
+
+![View Launcher Screenshot](./resources/image1.png)
 
 The options are going to be described below, but you can pick one PDF and quickly convert into an output folder, pick a whole folder of PDFs and put markdown versions into a subfolder, or just take a bunch of JPG of JPEGs and turn them into markdown. 
 
 Once you pick your choice, then you will need to select, through a file GUI, the folder that has the docs in it.  You will be presented with all the docs in this folder.  In the sample below, there is only one PDF, but you can select which files to process.
 
-        * ![View Launcher Screenshot](./resources/image2.png)
+![View Launcher Screenshot](./resources/image2.png)
 
 Finally, you get to select where to put the folder.  Note that you can select from a variety of subfolder names, or simply make your own.  
 
-        * ![View Launcher Screenshot](./resources/image3.png)
+
+![View Launcher Screenshot](./resources/image3.png)
 
 ## 🛠️ Installation & Setup
 
