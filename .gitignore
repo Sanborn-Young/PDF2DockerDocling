@@ -1,0 +1,31 @@
+# 1. Ignore everything by default
+*
+
+# 2. Whitelist: Do NOT ignore these specific repository files
+!rundocling-fixed.py
+!pull-updated.ps1
+!docling_settings.env.example
+!HELP.bat
+!HELP_Win11Cute.bat
+!Start-Docling.bat
+!Stop-Docling.bat
+!.gitignore
+!README.md
+
+# 3. Whitelist: Resources folder for screenshots
+!resources/
+!resources/*
+
+# 4. Explicitly ensure sensitive local files are NEVER included
+# (This acts as a safety net for top-level patterns)
+docling_settings.env
+docling_convert.log
+
+# 5. Block unnecessary/private directories entirely
+env/
+Archive/
+documents/
+outputs/
+__pycache__/
+.DS_Store
+Thumbs.db
